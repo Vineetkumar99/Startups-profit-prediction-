@@ -1,3 +1,4 @@
+
 # Startups profit prediction using Multiple Linear Regression
 # Overview
 In this article, we will be predicting the profit from the startup’s dataset with the features available to us. We’re using the 50-startups dataset for this problem statement and we will be using the concept of Multiple linear regression to predict the profit of startups companies.
@@ -35,3 +36,6 @@ The major difference between linear regression and multiple linear regression is
 
 1. Linear regression: When we want to predict the height of one particular person just from the weight of that person.
 2. Multiple Linear regression: If we alter the above problem statement just a little bit like, if we have the features like height, age, and gender of the person and we have to predict the weight of the person then we have to use the concept of multiple linear regression.
+
+![466362 _image](https://user-images.githubusercontent.com/76897778/156865725-c8511a41-f455-443f-bc42-31d7180a9ac2.png)
+
